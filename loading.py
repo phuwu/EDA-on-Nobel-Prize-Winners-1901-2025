@@ -1,3 +1,5 @@
+# pip install kagglehub
+
 import kagglehub
 
 # Download latest version
